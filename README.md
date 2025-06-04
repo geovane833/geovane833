@@ -4,28 +4,28 @@
 
 <h3 align="center">🚀 Desenvolvedor Full Stack | Mobile | Backend | Frontend</h3>
 
-<p align="center">
+<p align="start">
   🎓 Formado em Técnico em Informática, Computação Gráfica e Técnico em Administração.<br>
-  🎓 Atualmente finalizando o curso de Análise e Desenvolvimento de Sistemas (ADS).<br>
-  🔭 Atuando como Freelancer e Desenvolvedor de sistemas Web, Mobile e APIs.<br>
-  🌱 Estudando e aplicando Clean Architecture, Cloud, DevOps e tecnologias modernas.<br>
-  💡 Sempre buscando evolução constante e novos desafios.<br>
+  🎓 Atualmente finalizando Análise e Desenvolvimento de Sistemas (ADS).<br>
+  💻 Desenvolvedor de soluções Web, Mobile e APIs, com foco em qualidade, escalabilidade e boas práticas.<br>
+  ☁️ Apaixonado por tecnologias, arquitetura de software, cloud, DevOps e inovação.<br>
+  🔥 Sempre buscando evolução, novos desafios e compartilhar conhecimento.<br>
 </p>
 
----
+<h1></h1>
 
 ![Snake animation](https://github.com/geovane833/geovane833/blob/output/github-contribution-grid-snake.svg)
 
----
+<h1></h1>
 
-## 🌎 Onde me encontrar:
+## 🌍 Onde me encontrar:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seuuser)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seunumerocomddd)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geovane-sousa-190bb2129/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu-user)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/seu-numero)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:190geo@gmail.com)
 
----
+<h1></h1>
 
 ## 🚀 Tecnologias que trabalho no dia a dia:
 
@@ -50,7 +50,7 @@
   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </div>
 
----
+<h1></h1>
 
 ## 📊 Estatísticas GitHub:
 
@@ -59,15 +59,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovane833&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10"/>
 </div>
 
----
+<h1></h1>
 
 ## ✨ Sobre mim:
 
-- 💻 Amante de tecnologia e desenvolvimento.
-- 🎓 Formado em Técnico de Informática, Computação Gráfica e Administração.
+- 💻 Apaixonado por tecnologia e desenvolvimento.
+- 🎓 Formado em Técnico em Informática, Computação Gráfica e Técnico em Administração.
 - 🎓 Atualmente cursando Análise e Desenvolvimento de Sistemas (ADS).
 - 🚀 Desenvolvedor Full Stack, Mobile, Backend e Frontend.
-- 🧠 Apaixonado por aprender, ensinar e crescer constantemente.
-- 🔥 Sempre buscando criar soluções criativas e impactantes para a vida das pessoas.
+- ☁️ Entusiasta de Cloud, DevOps e Arquitetura de Software.
+- 🧠 Sempre buscando aprender, ensinar e crescer.
+- 🔥 Meu foco é criar soluções inteligentes, robustas e que gerem impacto real.
 
----
+<h1></h1>
