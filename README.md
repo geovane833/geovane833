@@ -14,6 +14,10 @@
 
 ---
 
+![Snake animation](https://github.com/geovane833/geovane833/blob/output/github-contribution-grid-snake.svg)
+
+---
+
 ## 🌎 Onde me encontrar:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
@@ -54,12 +58,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=geovane833&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geovane833&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10"/>
 </div>
-
----
-
-## 🐍 Cobrinha dos commits:
-
-![Snake animation](https://github.com/geovane833/geovane833/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
