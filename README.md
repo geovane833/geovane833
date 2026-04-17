@@ -5,8 +5,8 @@
 <h3 align="center">🚀 Desenvolvedor Full Stack | Mobile | Backend | Frontend</h3>
 
 <p align="start">
-  🎓 Formado em Técnico em Informática, Computação Gráfica e Técnico em Administração.<br>
-  🎓 Atualmente finalizando Análise e Desenvolvimento de Sistemas (ADS).<br>
+  🎓 Formado em Técnico em Informática, Computação Gráfica, Técnico em Administração e Análise e Desenvolvimento de Sistemas (ADS).<br>
+  🎓 Atualmente cursando Bacharelado Ciências da Computaçao .<br>
   💻 Desenvolvedor de soluções Web, Mobile e APIs, com foco em qualidade, escalabilidade e boas práticas.<br>
   ☁️ Apaixonado por tecnologias, arquitetura de software, cloud, DevOps e inovação.<br>
   🔥 Sempre buscando evolução, novos desafios e compartilhar conhecimento.<br>
